@@ -1,4 +1,7 @@
 <p align="center">
+    the1Domo
+</p>
+<p align="center">
   <img src="https://profile-counter.glitch.me/g91/count.svg">
 </p>
 
