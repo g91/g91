@@ -1,7 +1,4 @@
 <p align="center">
-     <img src="https://i.imgur.com/1SZrYQw.jpeg">
-</p>
-<p align="center">
   <img src="https://profile-counter.glitch.me/g91/count.svg">
 </p>
 
